@@ -14,17 +14,21 @@ __**Antinuke**__
 
 ~whitelist:- Whitelist trusted users
 
-__**Information**__
+__**Utility**__
 
-~avatar:- Shows a user’s avatar
+~avatar:- Shows an user’s avatar
 
-~banner:- Shows a user’s banner
+~badges:- Shows an user's badges
+
+~banner:- Shows an user’s banner
 
 ~botinfo:- Shows bot information 
 
 ~help:- Shows all the commands of bot
 
 ~invite:- Gives the invite link to add the bot
+
+~list:- List of everything you need
 
 ~ping:- Shows Bot latency
 
@@ -49,6 +53,8 @@ __**Moderation**__
 ~timeout: Adds or remove timeout from a user 
 
 ~unban: Unban a user 
+
+~unbanall: Unbans all user from the server
 
 ~unhide: Unhides a channel 
 
