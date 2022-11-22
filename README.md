@@ -1,10 +1,12 @@
-# ROLEX 
+# **ROLEX**
 
-Rolex is a Security Bot. Get all the security factors with only one bot, powerful Anti-nuke system, moderation commands and information commands for free.
+Rolex is a Security Bot. Get all the security factors with only one bot, a powerful Anti-nuke system, moderation commands, and utility commands in just one bot!
 
-__**Antinuke**__
+🛡️__**Antinuke**__
 
-~antinuke:- Enable or disable whole Anti-nuke system
+~antinuke:- Enable or disable the whole Anti-nuke system
+
+~clear-permissions:- Remove dangerous permissions from all roles
 
 ~punishment:- Changes punishment type. Ban/Kick
 
@@ -14,17 +16,75 @@ __**Antinuke**__
 
 ~whitelist:- Whitelist trusted users
 
-__**Utility**__
+⚒️__**Moderation**__
 
-~avatar:- Shows an user’s avatar
+~ban:- Bans a user 
 
-~badges:- Shows an user's badges
+~hide:- Hides a channel 
 
-~banner:- Shows an user’s banner
+~kick:- Kicks a user 
+
+~lock:- Locks a channel 
+
+~purge:- Deletes a Specific amount of messages 
+
+~timeout: Adds or removes timeout from a user 
+
+~unban: Unban a user 
+
+~unbanall: Unbans all users from the server
+
+~unhide: Unhides a channel 
+
+~unlock:- Unlocks a channel
+
+📑__**Loggings**__
+
+~channellog:- Log create/ edit/ delete channel.
+
+~logall:- Enables/Disables all the logs at once in a channel.
+
+~memberlog:- Log when someone joins/leaves/nickname/role update etc.
+
+~modlog:- Log mod actions in the server.
+
+~msglog:- Log message deleted/ edited / bulk deleted.
+
+~rolelog:- Log create/ edit/ delete roles.
+
+~serverlog:- Log server updates like emoji updates, icon changes, etc.
+
+👋🏻__**Welcomer**__
+
+~greet-channel:- Sets the channel for the welcomer
+
+~greet-color:- Change the color of the embed for the welcomer.
+
+~greet-embed:- Toggle embed for welcomer.
+
+~greet-image:- Sets welcome image.
+
+~greet-message:- Sets welcome message.
+
+~greet-ping:- Toggle embed ping for welcomer.
+
+~greet-reset:- Disable welcome your server.
+
+~greet-test:- Test the welcome message and what it will look like.
+
+~greet-thumbnail:- Setups welcome thumbnail.
+
+⚙️__**Utility**__
+
+~avatar:- Shows a user’s avatar
+
+~badges:- Shows a user's badges
+
+~banner:- Shows a user’s banner
 
 ~botinfo:- Shows bot information 
 
-~help:- Shows all the commands of bot
+~help:- Shows all the commands of the bot
 
 ~invite:- Gives the invite link to add the bot
 
@@ -37,25 +97,3 @@ __**Utility**__
 ~server: Shows server information or server avatar
 
 ~userinfo:- Shows user information 
-
-__**Moderation**__
-
-~ban:- Bans a user 
-
-~hide:- Hides a channel 
-
-~kick:- Kicks a user 
-
-~lock:- Locks a channel 
-
-~purge:- Deletes Specific amount of messages 
-
-~timeout: Adds or remove timeout from a user 
-
-~unban: Unban a user 
-
-~unbanall: Unbans all user from the server
-
-~unhide: Unhides a channel 
-
-~unlock:- Unlocks a channel
