@@ -1,99 +1,24 @@
 # **ROLEX**
 
-Rolex is a Security Bot. Get all the security factors with only one bot, a powerful Anti-nuke system, moderation commands, and utility commands in just one bot!
+Rolex is a versatile Discord bot that provides a range of features to help make your server more secure, organized, and fun. With Rolex, you can protect your server against nuking attempts, moderate your chat with ease, log important server events, welcome new members, use automod functionality to keep your chat clean and play games and utilities with your members.
 
-🛡️__**Antinuke**__
+<br>
 
-~antinuke:- Enable or disable the whole Anti-nuke system
+**Some of Rolex's standout features include:**
 
-~clear-permissions:- Remove dangerous permissions from all roles
+- **Anti-Nuke Protection:** Rolex has robust anti-nuke protections to keep your server safe from malicious attacks.
+- **Moderation Commands:** Rolex's moderation commands allow you to quickly and easily manage your server's chat.
+- **Logging Capabilities:** Rolex logs all important server events, so you can stay on top of what's happening on your server.
+- **Welcome Messages:** Set up a custom welcome message for new members with Rolex's welcome message functionality.
+- **Automod Functionality:** Use Rolex's automod features to automatically remove spam, NSFW content, and other unwanted messages.
+- **Games and Utilities:** Rolex also comes with fun games and utilities, like trivia, rock-paper-scissors, and more.
 
-~punishment:- Changes punishment type. Ban/Kick
+<br>
 
-~status:- Shows Anti-nuke settings.
+⭐ __**Links**__
+- [Invite Rolex](https://discord.com/oauth2/authorize?client_id=921680086829260821&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FPpjXzymPHY&response_type=code&scope=guilds%20bot%20applications.commands)
+- [Join Our Support Server](https://discord.com/invite/PpjXzymPHY)
+- [Terms of Service](https://docs.google.com/document/d/1X0prUY6k54CEUNTxjiqoNT9zVajULleqVE0veVuKblQ/edit)
+- [Privacy Policy](https://docs.google.com/document/d/1nfRhUdJ8sZHsUz1EjrAYCuT5cQxZMuwPbvxUMtHuy9c/edit)
 
-~toggle:- Enable/Disable any specific Anti-nuke feature
-
-~whitelist:- Whitelist trusted users
-
-⚒️__**Moderation**__
-
-~ban:- Bans a user 
-
-~hide:- Hides a channel 
-
-~kick:- Kicks a user 
-
-~lock:- Locks a channel 
-
-~purge:- Deletes a Specific amount of messages 
-
-~timeout: Adds or removes timeout from a user 
-
-~unban: Unban a user 
-
-~unbanall: Unbans all users from the server
-
-~unhide: Unhides a channel 
-
-~unlock:- Unlocks a channel
-
-📑__**Loggings**__
-
-~channellog:- Log create/ edit/ delete channel.
-
-~logall:- Enables/Disables all the logs at once in a channel.
-
-~memberlog:- Log when someone joins/leaves/nickname/role update etc.
-
-~modlog:- Log mod actions in the server.
-
-~msglog:- Log message deleted/ edited / bulk deleted.
-
-~rolelog:- Log create/ edit/ delete roles.
-
-~serverlog:- Log server updates like emoji updates, icon changes, etc.
-
-👋🏻__**Welcomer**__
-
-~greet-channel:- Sets the channel for the welcomer
-
-~greet-color:- Change the color of the embed for the welcomer.
-
-~greet-embed:- Toggle embed for welcomer.
-
-~greet-image:- Sets welcome image.
-
-~greet-message:- Sets welcome message.
-
-~greet-ping:- Toggle embed ping for welcomer.
-
-~greet-reset:- Disable welcome your server.
-
-~greet-test:- Test the welcome message and what it will look like.
-
-~greet-thumbnail:- Setups welcome thumbnail.
-
-⚙️__**Utility**__
-
-~avatar:- Shows a user’s avatar
-
-~badges:- Shows a user's badges
-
-~banner:- Shows a user’s banner
-
-~botinfo:- Shows bot information 
-
-~help:- Shows all the commands of the bot
-
-~invite:- Gives the invite link to add the bot
-
-~list:- List of everything you need
-
-~ping:- Shows Bot latency
-
-~roleinfo:- Shows role information 
-
-~server: Shows server information or server avatar
-
-~userinfo:- Shows user information 
+We're constantly working to improve Rolex and add new features to make your Discord server experience even better. Join our support server to stay up-to-date on the latest Rolex news and updates, and to get help if you need it. Thanks for using Rolex!
